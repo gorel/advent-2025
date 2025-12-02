@@ -1,0 +1,6 @@
+test.txt
+input.txt
+bin/
+
+*.hi
+*.o
